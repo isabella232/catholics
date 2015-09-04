@@ -4,6 +4,7 @@ csvkit==0.9.1
 dbf==0.94.003
 jdcal==1.0
 openpyxl==2.2.0-b1
+proof==0.2.0
 python-dateutil==2.2
 pytimeparse==1.1.5
 six==1.9.0
