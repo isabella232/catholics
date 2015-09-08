@@ -28,7 +28,7 @@ COLUMNS = (
 )
 
 NORTHEAST_STATES = ('CT', 'MA', 'ME', 'NH', 'NJ', 'NY', 'PA', 'RI', 'VT',)
-MIDWEST_STATES = ('IN', 'IL', 'MI', 'OH', 'WI', 'IA', 'KS', 'MN', 'MS', 'NE', 'ND', 'SD',)
+MIDWEST_STATES = ('IN', 'IL', 'MI', 'OH', 'WI', 'IA', 'KS', 'MN', 'MO', 'NE', 'ND', 'SD',)
 REGIONS = (('northeast', NORTHEAST_STATES), ('midwest', MIDWEST_STATES))
 
 # 1965 pop: https://www.census.gov/prod/1/pop/p25-420.pdf
